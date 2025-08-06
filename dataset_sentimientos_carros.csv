@@ -1,7 +1,7 @@
 sentimiento,texto
 positivo,Me encantó el diseño deportivo del nuevo Mazda 3.
 positivo,El rendimiento del Toyota Corolla en carretera es excelente.
-positivo,Mi Honda Civic nunca me ha fallado, lo recomiendo totalmente.
+positivo,Mi Honda Civic nunca me ha fallado. lo recomiendo totalmente.
 positivo,El interior del BMW X5 es lujoso y cómodo.
 positivo,Me sorprendió la eficiencia de combustible del Kia Rio.
 positivo,El Tesla Model 3 tiene una aceleración impresionante.
@@ -23,7 +23,7 @@ neutro,Mi auto es un Toyota del 2012.
 neutro,Estoy considerando comprar un carro usado.
 neutro,Fui a ver un Honda Civic pero aún no decido.
 neutro,Me gusta más la caja automática que la manual.
-neutro,"El vehículo tiene 100,000 kilómetros recorridos."
+neutro,"El vehículo tiene 100000 kilómetros recorridos."
 neutro,Vi una camioneta roja parqueada frente a mi casa.
 neutro,El seguro del carro vence el próximo mes.
 neutro,Comparé precios entre un Mazda y un Nissan.
