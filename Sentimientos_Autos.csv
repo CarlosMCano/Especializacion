@@ -21,7 +21,7 @@ positive;Quiet cabin and smooth transmission shifts.
 negative;Too expensive for the features it offers.
 neutral;Handles well in traffic. just as expected.
 positive;Excellent safety features and crash ratings.
-negative.;Gearbox issues started after 5 month.
+negative;Gearbox issues started after 5 month.
 neutral;Performance is okay. but could be better.
 positive;Love the panoramic sunroof and premium sound system.
 negative;Seats are uncomfortable for long drives.
@@ -143,4 +143,5 @@ neutral;Performs as expected.
 positive;Handles beautifully on curves.
 negative;Cheap build quality.
 neutral;Neutral impression overall.
+
 
